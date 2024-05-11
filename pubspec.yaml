@@ -1,8 +1,8 @@
 name: custom_alert_box
 description: to be able to show custom alert box easily
 version: 0.0.1
-authors:
-homepage:
+authors: Akmaljon Sotvoldiev
+homepage: https://github.com/akmaljon1016/custom_alert_box.git
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
